@@ -1,0 +1,42 @@
+name: Coletar bichos atrasados
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coletor-atrasados
+  cancel-in-progress: false
+
+jobs:
+  coleta:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar arquivos
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar bibliotecas
+        run: pip install -r requirements.txt
+
+      - name: Executar scraper
+        run: python coletor_atrasados.py
+
+      - name: Salvar resultados no GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add resultado/
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualizacao automatica dos atrasados"
+            git push
+          fi
