@@ -1,0 +1,245 @@
+{
+  "atualizado_em": "15/10/2026 18:36",
+  "signos": {
+    "aries": {
+      "nome": "Áries",
+      "slug": "aries",
+      "periodo": "21/03 a 20/04",
+      "previsao": "Relacionamentos: Sol e Júpiter fortalecem o contato com pessoas queridas logo cedo e colocam os relacionamentos em destaque. Há sinal de bom humor e diversão com os amigos mais tarde. Dê um rolê por aí para se divertir à noite e deixe a rotina bem longe. Trabalho: O astral é perfeito para fazer contatos com pessoas de fora. Tarefas e projetos feitos em equipe contam com as melhores vibes: junte forças com os colegas para finalizar tudo rapidinho.",
+      "dezenas": [
+        "32",
+        "93",
+        "42",
+        "02",
+        "46"
+      ],
+      "cor": "Mais sobre o Signo de Aries Elemento: Fogo Amuleto: Olho-de-cabra, sol e pingente de pimenta Pedraria: Granada, pirita e rodonita Essências: Fragrâncias cítricas, florais intensas com especiarias (que contêm canela, pimenta, gengibre)",
+      "elemento": "Fogo",
+      "amuletos": "",
+      "pedraria": "Granada, pirita e rodonita",
+      "essencias": "Fragrâncias cítricas, florais intensas com especiarias (que contêm canela, pimenta, gengibre)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/aries_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/aries/"
+    },
+    "touro": {
+      "nome": "Touro",
+      "slug": "touro",
+      "periodo": "21/04 a 20/05",
+      "previsao": "Trabalho: Com Sol e Júpiter favorecendo o serviço, coloque as mãos na massa logo cedo. Home office ou serviços para o lar contam com as melhores energias. Bem–estar: O astral é favorável para fazer ajustes em casa e resolver alguns assuntos que estavam pendentes. Aproveite para encerrar ciclos antes de se envolver em coisas novas.",
+      "dezenas": [
+        "22",
+        "35",
+        "17",
+        "01",
+        "70"
+      ],
+      "cor": "Mais sobre o Signo de Touro Elemento: Terra Amuleto: Figa Pedraria: Quartzo rosa, turmalina verde e sodalita Metal: Cobre Essências: Amadeirados, cítricos e frutais suaves com folhas e ervas (que contêm lima, chá verde e erva-doce). clássicos, amadeirados, cítricos e frutais suaves com folhas e ervas (lima, chá verde e erva-doce)",
+      "elemento": "Terra",
+      "amuletos": "",
+      "pedraria": "Quartzo rosa, turmalina verde e sodalita",
+      "essencias": "Amadeirados, cítricos e frutais suaves com folhas e ervas (que contêm lima, chá verde e erva-doce). clássicos, amadeirados, cítricos e frutais suaves com folhas e ervas (lima, chá verde e erva-doce)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/touro_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/touro/"
+    },
+    "gemeos": {
+      "nome": "Gêmeos",
+      "slug": "gemeos",
+      "periodo": "21/05 a 20/06",
+      "previsao": "Sorte: Com as energias de Sol e Júpiter logo cedo, a sorte tem tudo para sorrir para o seu lado e pode se dar bem fazendo uma fezinha. Relacionamentos: Sua habilidade para lidar com as pessoas está on e será divertido rever quem é importante em sua vida. Aproveite para conhecer gente nova e se divertir à noite.",
+      "dezenas": [
+        "03",
+        "31",
+        "46",
+        "69",
+        "11"
+      ],
+      "cor": "Mais sobre o Signo de Gêmeos Elemento: Ar Amuleto: Símbolo yin-yang, miniatura de sapato e sininho Pedraria: Citrino, hematita e ágata Metal: Alumínio Essências: Florais suaves com ingredientes marinhos e refrescantes (que contêm lírio, verbena e algas)",
+      "elemento": "Ar",
+      "amuletos": "",
+      "pedraria": "Citrino, hematita e ágata",
+      "essencias": "Florais suaves com ingredientes marinhos e refrescantes (que contêm lírio, verbena e algas)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/gemeos_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/gemeos/"
+    },
+    "cancer": {
+      "nome": "Câncer",
+      "slug": "cancer",
+      "periodo": "21/06 a 21/07",
+      "previsao": "Família: Se anda sonhando com a casa própria, Sol e Júpiter enviam ótimas energias logo cedo para dar o primeiro passo. Bom dia para comprar algo para o lar, resolver tarefas pendentes em casa e deixar tudo em ordem. Trabalho: Talvez seja preciso mais esforço da sua parte hoje, mas seu lado responsável vem à tona e vai ajudar você a terminar tarefas chatas e rotineiras sem perder a concentração. O dinheiro deve entrar, mas depende do seu esforço.",
+      "dezenas": [
+        "67",
+        "28",
+        "59",
+        "64",
+        "80"
+      ],
+      "cor": "Mais sobre o Signo de Câncer Elemento: Água Amuleto: Pingente de lua, peixe e elefante branco Pedraria: Quartzo verde, ametista, madrepérola Metal: Prata Essências: Frutas suaves, fragrâncias doces com misturas florais (colônias de banho ou de bebê, que contém lavanda e gardênia)",
+      "elemento": "Água",
+      "amuletos": "",
+      "pedraria": "Quartzo verde, ametista, madrepérola",
+      "essencias": "Frutas suaves, fragrâncias doces com misturas florais (colônias de banho ou de bebê, que contém lavanda e gardênia)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/cancer_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/cancer/"
+    },
+    "leao": {
+      "nome": "Leão",
+      "slug": "leao",
+      "periodo": "22/07 a 22/08",
+      "previsao": "Trabalho: O astral é perfeito para expandir seus contatos e convencer as pessoas com as suas ideias. Criatividade e um ótimo papo fazem a diferença em uma reunião com colegas ou clientes. Bem–estar e Sorte: Passeio, ótimas conversas e um astral mais descontraído deixam os momentos de lazer pra lá de animados. A sorte está ao seu lado e pode ser uma boa fazer uma fezinha no começo da noite.",
+      "dezenas": [
+        "37",
+        "83",
+        "17",
+        "91",
+        "76"
+      ],
+      "cor": "Mais sobre o Signo de Leão Elemento: Fogo Amuleto: Pingente de sol Pedraria: Cristal, cornalina e coral Metal: Ouro Essências: Com notas florais intensas, fragrâncias frutais marcantes (que contém coquetel de frutas vermelhas)",
+      "elemento": "Fogo",
+      "amuletos": "",
+      "pedraria": "Cristal, cornalina e coral",
+      "essencias": "Com notas florais intensas, fragrâncias frutais marcantes (que contém coquetel de frutas vermelhas)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/leao_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/leao/"
+    },
+    "virgem": {
+      "nome": "Virgem",
+      "slug": "virgem",
+      "periodo": "23/08 a 22/09",
+      "previsao": "Dinheiro: Pode pintar uma grana que não esperava logo cedo. Sol e Júpiter enviam boas energias para o seu bolso, mas mantenha segredo por enquanto. Família: Os assuntos que envolvem a casa ou os parentes podem exigir boa parte da sua atenção, mas da melhor maneira possível.",
+      "dezenas": [
+        "14",
+        "71",
+        "20",
+        "98",
+        "36"
+      ],
+      "cor": "Mais sobre o Signo de Virgem Elemento: Terra Amuleto: Escapulário Pedraria: Ágata, amazonita e jaspe Metal: Alumínio Essências: Frutais levemente cítricos e florais suaves (que contêm lavanda, jasmim e maçã verde)",
+      "elemento": "Terra",
+      "amuletos": "",
+      "pedraria": "Ágata, amazonita e jaspe",
+      "essencias": "Frutais levemente cítricos e florais suaves (que contêm lavanda, jasmim e maçã verde)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/virgem_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/virgem/"
+    },
+    "libra": {
+      "nome": "Libra",
+      "slug": "libra",
+      "periodo": "23/09 a 22/10",
+      "previsao": "Bem–estar: As estrelas favorecem planos para passear, conhecer um lugar novo ou fazer uma viagem rápida para espairecer e se divertir. E com Sol e Júpiter protegendo as amizades, pode fazer contatos e se divertir com o pessoal. Trabalho: É hora de expandir sua rede de contatos. Tire proveito do seu raciocínio rápido e mostre suas ideias porque algumas delas podem virar realidade se tiver a colaboração de colegas ou amigos.",
+      "dezenas": [
+        "96",
+        "17",
+        "11",
+        "92",
+        "85"
+      ],
+      "cor": "Mais sobre o Signo de Libra Elemento: Ar Amuleto: Pirâmide Pedraria: Turmalina rosa, água-marinha e citrino Metal: Cobre Essências: Colônias suaves e buquê de flores delicadas (que contêm narciso, orquídea e rosas brancas)",
+      "elemento": "Ar",
+      "amuletos": "",
+      "pedraria": "Turmalina rosa, água-marinha e citrino",
+      "essencias": "Colônias suaves e buquê de flores delicadas (que contêm narciso, orquídea e rosas brancas)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/libra_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/libra/"
+    },
+    "escorpiao": {
+      "nome": "Escorpião",
+      "slug": "escorpiao",
+      "periodo": "23/10 a 21/11",
+      "previsao": "Dinheiro: Há sinal de ótimas energias para você forrar o bolso! No que depender das estrelas, o dinheiro deve entrar e pode até cair um pix que não esperava à noite. Trabalho: Sol e Júpiter destacam seu lado ambicioso logo cedo e seu esforço tem tudo para ser recompensado. Mas não mostre suas cartas logo de cara e aproveite para sondar o terreno se está pensando em promoção ou se busca um emprego que pague melhor. Agir discretamente aumenta suas chances de sucesso.",
+      "dezenas": [
+        "05",
+        "77",
+        "25",
+        "67",
+        "06"
+      ],
+      "cor": "Mais sobre o Signo de Escorpião Elemento: Água Amuleto: Pingente de borboleta Pedraria: Ágata de fogo, cristal e turmalina Metal: Bronze Essências: Aromas florais intensos com toque de frutas e fragrâncias marcantes (que contêm patchuli, absinto e sândalo)",
+      "elemento": "Água",
+      "amuletos": "",
+      "pedraria": "Ágata de fogo, cristal e turmalina",
+      "essencias": "Aromas florais intensos com toque de frutas e fragrâncias marcantes (que contêm patchuli, absinto e sândalo)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/escorpiao_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/escorpiao/"
+    },
+    "sagitario": {
+      "nome": "Sagitário",
+      "slug": "sagitario",
+      "periodo": "22/11 a 21/12",
+      "previsao": "Amizades: O contato com os amigos, especialmente os que estão longe, contam com as ótimas energias de Sol e Júpiter hoje. Planos para uma viagem também estão protegidos. Trabalho: Você conta com uma dose extra de disposição para cuidar dos próprios interesses. Mostre que é capaz de encontrar soluções criativas para problemas do dia a dia e aproveite para aprender mais sobre qualquer assunto que despertar sua atenção.",
+      "dezenas": [
+        "31",
+        "29",
+        "95",
+        "71",
+        "07"
+      ],
+      "cor": "Mais sobre o Signo de Sagitário Elemento: Fogo Amuleto: Coruja miniatura Pedraria: Topázio, ametista e sodalita Metal: Estanho Essências: Florais intensos, com toque oriental e especiarias exóticas (que contêm baunilha, anis e cravo)",
+      "elemento": "Fogo",
+      "amuletos": "",
+      "pedraria": "Topázio, ametista e sodalita",
+      "essencias": "Florais intensos, com toque oriental e especiarias exóticas (que contêm baunilha, anis e cravo)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/sagitario_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/sagitario/"
+    },
+    "capricornio": {
+      "nome": "Capricórnio",
+      "slug": "capricornio",
+      "periodo": "22/12 a 20/01",
+      "previsao": "Bem–estar: Talvez seja uma boa diminuir o ritmo em alguns momentos e respeitar seu pique. Sua intuição segue afiada e pode descobrir um segredo mais tarde, então não ignore seus pressentimentos. Trabalho: Sol e Júpiter favorecem mudanças na vida profissional logo cedo. E com seu sexto sentido de plantão, fica mais fácil identificar as melhores oportunidades que devem cruzar seu caminho nesta quinta.",
+      "dezenas": [
+        "16",
+        "76",
+        "99",
+        "73",
+        "24"
+      ],
+      "cor": "Mais sobre o Signo de Capricórnio Elemento: Terra Amuleto: Pomba miniatura Pedraria: Ônix, hematita e quartzo fumê Metal: Chumbo Essências: Com toque suave de frutas, madeira e ervas (que contêm cedro, sândalo e notas verdes)",
+      "elemento": "Terra",
+      "amuletos": "",
+      "pedraria": "Ônix, hematita e quartzo fumê",
+      "essencias": "Com toque suave de frutas, madeira e ervas (que contêm cedro, sândalo e notas verdes)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/capricornio_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/capricornio/"
+    },
+    "aquario": {
+      "nome": "Aquário",
+      "slug": "aquario",
+      "periodo": "21/01 a 19/02",
+      "previsao": "Bem–estar: O dia começa mais leve e com ótimas vibes para as suas amizades. Planos para uma viagem também estão protegidos pelas energias de Sol e Júpiter logo cedo, assim como os estudos e o contato com pessoas de longe. Trabalho: Podem surgir novas experiências no trabalho e você terá confiança para colocar um plano mais ousado em prática. Atividades em equipe trazem resultados mais concretos agora.",
+      "dezenas": [
+        "19",
+        "65",
+        "03",
+        "20",
+        "73"
+      ],
+      "cor": "Mais sobre o Signo de Aquário Elemento: Ar Amuleto: Gato minatura Pedraria: Turmalina azul, cristal de quartzo e sodalita Metal: Níquel Essências: Fragrâncias florais refrescantes e com misturas curiosas (que contêm jasmim com groselha, chocolate com pimenta, tutti frutti com menta)",
+      "elemento": "Ar",
+      "amuletos": "",
+      "pedraria": "Turmalina azul, cristal de quartzo e sodalita",
+      "essencias": "Fragrâncias florais refrescantes e com misturas curiosas (que contêm jasmim com groselha, chocolate com pimenta, tutti frutti com menta)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/aquario_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/aquario/"
+    },
+    "peixes": {
+      "nome": "Peixes",
+      "slug": "peixes",
+      "periodo": "20/02 a 20/03",
+      "previsao": "Saúde: Logo cedo, Sol e Júpiter favorecem algumas mudanças nos seus hábitos. É hora de deixar de lado o que te faz mal e adotar atitudes mais saudáveis, mesmo que seja um passo de cada vez. Trabalho: Você conta com muito foco para correr atrás do reconhecimento que merece. Fica mais fácil identificar as boas oportunidades que cruzarem seu caminho, inclusive um novo emprego. Fazer planos para o futuro é o primeiro passo para ter resultados.",
+      "dezenas": [
+        "72",
+        "92",
+        "81",
+        "96",
+        "89"
+      ],
+      "cor": "Mais sobre o Signo de Peixes Elemento: Água Amuleto: Crucifixo Pedraria: Ametista, água-marinha e quartzo verde Metal: Platina Essências: Frutais e florais levemente adocicados com toque de frescor (que contêm madressilva, capim-limão e flor de maçã)",
+      "elemento": "Água",
+      "amuletos": "",
+      "pedraria": "Ametista, água-marinha e quartzo verde",
+      "essencias": "Frutais e florais levemente adocicados com toque de frescor (que contêm madressilva, capim-limão e flor de maçã)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/peixes_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/peixes/"
+    }
+  }
+}
