@@ -1,77 +1,245 @@
 {
-  "atualizado_em": "19/10/2026 09:29",
+  "atualizado_em": "20/10/2026 09:26",
   "signos": {
     "aries": {
       "nome": "Áries",
       "slug": "aries",
       "periodo": "21/03 a 20/04",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/aries/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Amizades: A relação com os amigos continua em destaque, mas talvez não da maneira que você gostaria. Pode faltar habilidade para lidar com as pessoas e talvez pinte briga durante o dia. A boa notícia é que o astral melhora à noite e dá tempo de consertar uma amizade estremecida. Trabalho: Seu lado solidário segue em alta, mas é preciso manter os pés no chão. Projeto muito fora da realidade pode trazer problemas, então aja com cautela.",
+      "dezenas": [
+        "48",
+        "74",
+        "25",
+        "24",
+        "97"
+      ],
+      "cor": "Mais sobre o Signo de Aries Elemento: Fogo Amuleto: Olho-de-cabra, sol e pingente de pimenta Pedraria: Granada, pirita e rodonita Essências: Fragrâncias cítricas, florais intensas com especiarias (que contêm canela, pimenta, gengibre)",
+      "elemento": "Fogo",
+      "amuletos": "",
+      "pedraria": "Granada, pirita e rodonita",
+      "essencias": "Fragrâncias cítricas, florais intensas com especiarias (que contêm canela, pimenta, gengibre)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/aries_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/aries/"
     },
     "touro": {
       "nome": "Touro",
       "slug": "touro",
       "periodo": "21/04 a 20/05",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/touro/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Relacionamentos: Com o atrito entre Vênus e Plutão nesta madrugada, as cobranças podem estremecer um relacionamento se não mantiver a cabeça fria diante de uma provocação. Não se irrite com qualquer coisa, ok? Trabalho: Sua atenção segue focada na vida profissional, mas nem tudo será um mar de rosas. É hora de colocar o seu foco no serviço, fazer sua parte e lidar com as rivalidades com maturidade. Apesar dos desafios, seu esforço não será em vão.",
+      "dezenas": [
+        "25",
+        "14",
+        "35",
+        "33",
+        "84"
+      ],
+      "cor": "Mais sobre o Signo de Touro Elemento: Terra Amuleto: Figa Pedraria: Quartzo rosa, turmalina verde e sodalita Metal: Cobre Essências: Amadeirados, cítricos e frutais suaves com folhas e ervas (que contêm lima, chá verde e erva-doce). clássicos, amadeirados, cítricos e frutais suaves com folhas e ervas (lima, chá verde e erva-doce)",
+      "elemento": "Terra",
+      "amuletos": "",
+      "pedraria": "Quartzo rosa, turmalina verde e sodalita",
+      "essencias": "Amadeirados, cítricos e frutais suaves com folhas e ervas (que contêm lima, chá verde e erva-doce). clássicos, amadeirados, cítricos e frutais suaves com folhas e ervas (lima, chá verde e erva-doce)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/touro_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/touro/"
     },
     "gemeos": {
       "nome": "Gêmeos",
       "slug": "gemeos",
       "periodo": "21/05 a 20/06",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/gemeos/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Saúde: Com Vênus e Plutão trocando farpas, esta terça pede cautela especial com a saúde. Se você exagerar e sobrecarregar seu corpo, pode pagar um preço alto mais tarde. Equilíbrio é tudo nessa vida, bebê. Bem–estar: Aprender mais ou fortalecer os laços com pessoas que estão longe anima sua noite, quando o astral está mais leve.",
+      "dezenas": [
+        "39",
+        "36",
+        "32",
+        "08",
+        "28"
+      ],
+      "cor": "Mais sobre o Signo de Gêmeos Elemento: Ar Amuleto: Símbolo yin-yang, miniatura de sapato e sininho Pedraria: Citrino, hematita e ágata Metal: Alumínio Essências: Florais suaves com ingredientes marinhos e refrescantes (que contêm lírio, verbena e algas)",
+      "elemento": "Ar",
+      "amuletos": "",
+      "pedraria": "Citrino, hematita e ágata",
+      "essencias": "Florais suaves com ingredientes marinhos e refrescantes (que contêm lírio, verbena e algas)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/gemeos_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/gemeos/"
     },
     "cancer": {
       "nome": "Câncer",
       "slug": "cancer",
       "periodo": "21/06 a 21/07",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/cancer/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Bem–estar: As mudanças seguem em alta hoje, mas é melhor não contar com a sorte. Siga sua intuição e desconfie de gente muito intrometida, querendo xeretar a sua vida. Trabalho: Esta terça será mais favorável para encerrar assuntos pendentes antes de se envolver em novas tarefas. As coisas correm melhor se prestar atenção ao seu sexto sentido e evitar atritos com pessoas mais jovens ou imaturas.",
+      "dezenas": [
+        "84",
+        "88",
+        "54",
+        "72",
+        "17"
+      ],
+      "cor": "Mais sobre o Signo de Câncer Elemento: Água Amuleto: Pingente de lua, peixe e elefante branco Pedraria: Quartzo verde, ametista, madrepérola Metal: Prata Essências: Frutas suaves, fragrâncias doces com misturas florais (colônias de banho ou de bebê, que contém lavanda e gardênia)",
+      "elemento": "Água",
+      "amuletos": "",
+      "pedraria": "Quartzo verde, ametista, madrepérola",
+      "essencias": "Frutas suaves, fragrâncias doces com misturas florais (colônias de banho ou de bebê, que contém lavanda e gardênia)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/cancer_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/cancer/"
     },
     "leao": {
       "nome": "Leão",
       "slug": "leao",
       "periodo": "22/07 a 22/08",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/leao/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Família: Com a tensão entre Vênus e Plutão, a convivência familiar pede mais compreensão e paciência. À noite, os relacionamentos melhoram e dá para resolver mágoas antigas se todo mundo fizer um esforço sincero. Trabalho: Talvez seja preciso paciência para se entender melhor com os colegas. Se estava pensando em fazer uma parceria, o momento pode não ser o mais adequado.",
+      "dezenas": [
+        "76",
+        "29",
+        "64",
+        "72",
+        "47"
+      ],
+      "cor": "Mais sobre o Signo de Leão Elemento: Fogo Amuleto: Pingente de sol Pedraria: Cristal, cornalina e coral Metal: Ouro Essências: Com notas florais intensas, fragrâncias frutais marcantes (que contém coquetel de frutas vermelhas)",
+      "elemento": "Fogo",
+      "amuletos": "",
+      "pedraria": "Cristal, cornalina e coral",
+      "essencias": "Com notas florais intensas, fragrâncias frutais marcantes (que contém coquetel de frutas vermelhas)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/leao_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/leao/"
     },
     "virgem": {
       "nome": "Virgem",
       "slug": "virgem",
       "periodo": "23/08 a 22/09",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/virgem/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Bem–estar: Seu jeito mais distraído pode atrapalhar as conversas ou contato com pessoas próximas. Vênus e Plutão em atrito pedem paciência na comunicação e em deslocamentos rápidos hoje. Trabalho: Você conta com seu jeito prático na hora de lidar com as tarefas, mas manter o foco pode ser um desafio em alguns momentos. Faça sua parte e cuide de uma coisa de cada vez pra não esquecer nada no meio do caminho.",
+      "dezenas": [
+        "11",
+        "53",
+        "66",
+        "82",
+        "29"
+      ],
+      "cor": "Mais sobre o Signo de Virgem Elemento: Terra Amuleto: Escapulário Pedraria: Ágata, amazonita e jaspe Metal: Alumínio Essências: Frutais levemente cítricos e florais suaves (que contêm lavanda, jasmim e maçã verde)",
+      "elemento": "Terra",
+      "amuletos": "",
+      "pedraria": "Ágata, amazonita e jaspe",
+      "essencias": "Frutais levemente cítricos e florais suaves (que contêm lavanda, jasmim e maçã verde)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/virgem_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/virgem/"
     },
     "libra": {
       "nome": "Libra",
       "slug": "libra",
       "periodo": "23/09 a 22/10",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/libra/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Dinheiro e Trabalho: Se quer fugir do prejuízo, as estrelas pedem cautela redobrada com a sua grana. Seu lado diplomático e criativo ajuda a abrir portas, mas confiar na sorte pode trazer problemas no serviço. Bem–estar: Melhor manter distância de jogo ou aposta hoje. Há sinal de atritos com pessoas mais jovens durante o dia, mas o astral melhora e dá pra se divertir com os amigos antes de encerrar esta terça.",
+      "dezenas": [
+        "46",
+        "23",
+        "88",
+        "44",
+        "71"
+      ],
+      "cor": "Mais sobre o Signo de Libra Elemento: Ar Amuleto: Pirâmide Pedraria: Turmalina rosa, água-marinha e citrino Metal: Cobre Essências: Colônias suaves e buquê de flores delicadas (que contêm narciso, orquídea e rosas brancas)",
+      "elemento": "Ar",
+      "amuletos": "",
+      "pedraria": "Turmalina rosa, água-marinha e citrino",
+      "essencias": "Colônias suaves e buquê de flores delicadas (que contêm narciso, orquídea e rosas brancas)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/libra_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/libra/"
     },
     "escorpiao": {
       "nome": "Escorpião",
       "slug": "escorpiao",
       "periodo": "23/10 a 21/11",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/escorpiao/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Trabalho: Aquelas tarefas mais chatinhas podem testar sua paciência hoje. Não jogue a toalha e tente cuidar de uma coisa por vez, assim fica mais fácil seguir em frente. Família: Assuntos antigos ou ligados à família ganham destaque, mas ficar remoendo demais o passado talvez não seja uma boa. À noite, o astral melhora e o desejo de curtir a sua casa ou matar a saudade de parentes distantes tende a crescer.",
+      "dezenas": [
+        "73",
+        "78",
+        "81",
+        "82",
+        "09"
+      ],
+      "cor": "Mais sobre o Signo de Escorpião Elemento: Água Amuleto: Pingente de borboleta Pedraria: Ágata de fogo, cristal e turmalina Metal: Bronze Essências: Aromas florais intensos com toque de frutas e fragrâncias marcantes (que contêm patchuli, absinto e sândalo)",
+      "elemento": "Água",
+      "amuletos": "",
+      "pedraria": "Ágata de fogo, cristal e turmalina",
+      "essencias": "Aromas florais intensos com toque de frutas e fragrâncias marcantes (que contêm patchuli, absinto e sândalo)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/escorpiao_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/escorpiao/"
     },
     "sagitario": {
       "nome": "Sagitário",
       "slug": "sagitario",
       "periodo": "22/11 a 21/12",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/sagitario/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Bem–estar: Com a tensão entre Vênus e Plutão nesta madrugada, a dica é redobrar a atenção com tudo o que envolva comunicação. Ouvir mais e falar menos pode poupar muitos problemas, Sagita. Trabalho: Você estará mais falante do que o normal, então vá com calma para não arrumar confusão. Cuidar de um assunto de cada vez e evitar decisões rápidas ajuda a lidar com o serviço de maneira mais tranquila.",
+      "dezenas": [
+        "12",
+        "23",
+        "85",
+        "58",
+        "82"
+      ],
+      "cor": "Mais sobre o Signo de Sagitário Elemento: Fogo Amuleto: Coruja miniatura Pedraria: Topázio, ametista e sodalita Metal: Estanho Essências: Florais intensos, com toque oriental e especiarias exóticas (que contêm baunilha, anis e cravo)",
+      "elemento": "Fogo",
+      "amuletos": "",
+      "pedraria": "Topázio, ametista e sodalita",
+      "essencias": "Florais intensos, com toque oriental e especiarias exóticas (que contêm baunilha, anis e cravo)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/sagitario_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/sagitario/"
     },
     "capricornio": {
       "nome": "Capricórnio",
       "slug": "capricornio",
       "periodo": "22/12 a 20/01",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/capricornio/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Dinheiro: Tudo o que envolve dinheiro ou finanças em geral pede cautela hoje. Vênus e Plutão se desentendem nesta madrugada, avisando que há risco de prejuízo se confiar demais nos outros, inclusive em um amigo. À noite, o astral melhora e podem pintar boas novas sobre herança ou negócio lucrativo. Trabalho: Como a grana não vai cair do céu hoje, o jeito é pegar firme no serviço. Cuide das coisas com calma e não terá problemas, ok?",
+      "dezenas": [
+        "82",
+        "24",
+        "31",
+        "35",
+        "42"
+      ],
+      "cor": "Mais sobre o Signo de Capricórnio Elemento: Terra Amuleto: Pomba miniatura Pedraria: Ônix, hematita e quartzo fumê Metal: Chumbo Essências: Com toque suave de frutas, madeira e ervas (que contêm cedro, sândalo e notas verdes)",
+      "elemento": "Terra",
+      "amuletos": "",
+      "pedraria": "Ônix, hematita e quartzo fumê",
+      "essencias": "Com toque suave de frutas, madeira e ervas (que contêm cedro, sândalo e notas verdes)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/capricornio_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/capricornio/"
     },
     "aquario": {
       "nome": "Aquário",
       "slug": "aquario",
       "periodo": "21/01 a 19/02",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/aquario/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Bem–estar: Vai sobrar pique para correr atrás dos seus interesses, mas não se cobre em excesso. Ouvir outras pessoas pode ser o melhor caminho para resolver questões pessoais à noite. Trabalho: A convivência com os colegas talvez precise de paciência. Você pode encarar críticas, mas um pouco mais de jogo de cintura ajuda a contornar os desafios. Guarde seus planos profissionais a sete chaves para afastar a concorrência.",
+      "dezenas": [
+        "10",
+        "11",
+        "24",
+        "76",
+        "85"
+      ],
+      "cor": "Mais sobre o Signo de Aquário Elemento: Ar Amuleto: Gato minatura Pedraria: Turmalina azul, cristal de quartzo e sodalita Metal: Níquel Essências: Fragrâncias florais refrescantes e com misturas curiosas (que contêm jasmim com groselha, chocolate com pimenta, tutti frutti com menta)",
+      "elemento": "Ar",
+      "amuletos": "",
+      "pedraria": "Turmalina azul, cristal de quartzo e sodalita",
+      "essencias": "Fragrâncias florais refrescantes e com misturas curiosas (que contêm jasmim com groselha, chocolate com pimenta, tutti frutti com menta)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/aquario_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/aquario/"
     },
     "peixes": {
       "nome": "Peixes",
       "slug": "peixes",
       "periodo": "20/02 a 20/03",
-      "erro": "HTTPSConnectionPool(host='hojenobicho.com', port=443): Max retries exceeded with url: /horoscopo/peixes/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      "previsao": "Bem–estar: Vênus e Plutão trocam farpas nesta madrugada e pedem atenção extra nos estudos, em viagem ou no contato com pessoas de fora. Caso o seu pique caia um pouco, respeite seu ritmo e ouça sua intuição. Trabalho: As tarefas que podem ser feitas a sós se desenrolam melhor hoje. Melhor não prometer mais do que consegue cumprir, assim vai evitar cobranças lá na frente.",
+      "dezenas": [
+        "44",
+        "77",
+        "60",
+        "01",
+        "07"
+      ],
+      "cor": "Mais sobre o Signo de Peixes Elemento: Água Amuleto: Crucifixo Pedraria: Ametista, água-marinha e quartzo verde Metal: Platina Essências: Frutais e florais levemente adocicados com toque de frescor (que contêm madressilva, capim-limão e flor de maçã)",
+      "elemento": "Água",
+      "amuletos": "",
+      "pedraria": "Ametista, água-marinha e quartzo verde",
+      "essencias": "Frutais e florais levemente adocicados com toque de frescor (que contêm madressilva, capim-limão e flor de maçã)",
+      "imagem": "https://hojenobicho.com/assets/img/horoscopo/signo/peixes_300.png",
+      "fonte": "https://hojenobicho.com/horoscopo/peixes/"
     }
   }
 }
