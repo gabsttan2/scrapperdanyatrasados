@@ -1,17 +1,17 @@
 {
-  "atualizado_em": "25/10/2026 09:20",
+  "atualizado_em": "26/10/2026 09:33",
   "signos": {
     "aries": {
       "nome": "Áries",
       "slug": "aries",
       "periodo": "21/03 a 20/04",
-      "previsao": "Bem–estar: Aproveite qualquer oportunidade para se divertir pela manhã. Seu lado encantador se destaca e o desejo de fazer algo novo, fora da rotina, deixa tudo ainda mais gostoso. Dinheiro: À noite, a Lua em Touro sinaliza boas novas envolvendo as finanças, então abra os olhos se quiser engordar o bolso.",
+      "previsao": "Trabalho: A Lua Cheia traz boas energias para se destacar na hora de lidar com dinheiro. Confie em seus instintos, pois pode surgir um negócio lucrativo hoje. Dinheiro: Aproveite as boas energias do céu para investir melhor a sua grana, rever gastos e encontrar novas oportunidades de lucrar.",
       "dezenas": [
-        "54",
-        "82",
-        "89",
-        "93",
-        "26"
+        "10",
+        "72",
+        "81",
+        "74",
+        "13"
       ],
       "cor": "Mais sobre o Signo de Aries Elemento: Fogo Amuleto: Olho-de-cabra, sol e pingente de pimenta Pedraria: Granada, pirita e rodonita Essências: Fragrâncias cítricas, florais intensas com especiarias (que contêm canela, pimenta, gengibre)",
       "elemento": "Fogo",
@@ -25,13 +25,13 @@
       "nome": "Touro",
       "slug": "touro",
       "periodo": "21/04 a 20/05",
-      "previsao": "Bem–estar: O sábado será perfeito para diminuir o ritmo, ficar no seu canto e repensar algumas coisas. À noite, ficar em casa pode ser uma ótima pedida. Mas os relacionamentos seguem em alta e, com Sol e Vênus animando a convivência, você pode equilibrar essas duas energias. Trabalho: Tarefas que podem ser feitas a sós devem correr com mais tranquilidade, mas você também vai se entender bem com os colegas.",
+      "previsao": "Trabalho: Você começa a semana com energia extra para correr atrás dos seus interesses. Mas a Lua Cheia avisa que será preciso diplomacia para manter a paz com todo mundo. Carreira: Sol e Plutão se estranham pela manhã e sinalizam rivalidades pela frente. Melhor não baixar a guarda porque alguém pode tentar puxar seu tapete.",
       "dezenas": [
-        "01",
-        "81",
-        "07",
-        "89",
-        "13"
+        "85",
+        "42",
+        "61",
+        "27",
+        "23"
       ],
       "cor": "Mais sobre o Signo de Touro Elemento: Terra Amuleto: Figa Pedraria: Quartzo rosa, turmalina verde e sodalita Metal: Cobre Essências: Amadeirados, cítricos e frutais suaves com folhas e ervas (que contêm lima, chá verde e erva-doce). clássicos, amadeirados, cítricos e frutais suaves com folhas e ervas (lima, chá verde e erva-doce)",
       "elemento": "Terra",
@@ -45,13 +45,13 @@
       "nome": "Gêmeos",
       "slug": "gemeos",
       "periodo": "21/05 a 20/06",
-      "previsao": "Sorte: Vênus entra em seu paraíso astral, mas como está retrógrado, é melhor não confiar muito na sorte agora. Redobre a atenção, ok? Bem–estar: Pode ser divertido viver novas experiências neste domingo, seja embarcando em um programa de última hora com os amigos ou se arriscando em algo fora da sua zona de conforto. À noite, a Lua inferniza seu astral e pode diminuir um pouco o seu pique.",
+      "previsao": "Trabalho: Com a tensão entre Sol e Plutão, pode ser um desafio manter a concentração no serviço. E com a Lua Cheia infernizando seu astral, talvez seja melhor cuidar de tarefas que podem ser feitas de maneira mais isolada. Bem–estar: A sua intuição estará mais afiada do que o normal e pode enviar avisos importantes hoje. Preste atenção a um pressentimento.",
       "dezenas": [
-        "51",
-        "57",
-        "97",
-        "62",
-        "25"
+        "43",
+        "10",
+        "72",
+        "82",
+        "23"
       ],
       "cor": "Mais sobre o Signo de Gêmeos Elemento: Ar Amuleto: Símbolo yin-yang, miniatura de sapato e sininho Pedraria: Citrino, hematita e ágata Metal: Alumínio Essências: Florais suaves com ingredientes marinhos e refrescantes (que contêm lírio, verbena e algas)",
       "elemento": "Ar",
@@ -65,13 +65,13 @@
       "nome": "Câncer",
       "slug": "cancer",
       "periodo": "21/06 a 21/07",
-      "previsao": "Família: Domingou, e boa parte da sua atenção pode se voltar para a família com a entrada de Vênus em Libra. Mas como o astro segue retrógrado, alguns perrengues em casa não estão descartados. Bem–estar: O astral é favorável para fazer planos a longo prazo, inclusive para a carreira. Se precisa de uma grana extra, vale fazer um bico em casa.",
+      "previsao": "Trabalho: A Lua Cheia traz mais pique e ajuda a correr atrás de alguns projetos diferentes. Só evite se arriscar demais, já que contar com a sorte hoje não é lá uma boa ideia. Amizades: A boa notícia é que pode se divertir muito com o pessoal, seja matando a saudade de quem está longe ou até planejando um encontro com a galera. Aproveite para conhecer gente nova e ampliar seu círculo de amigos.",
       "dezenas": [
-        "43",
-        "21",
-        "98",
-        "99",
-        "57"
+        "04",
+        "70",
+        "85",
+        "86",
+        "33"
       ],
       "cor": "Mais sobre o Signo de Câncer Elemento: Água Amuleto: Pingente de lua, peixe e elefante branco Pedraria: Quartzo verde, ametista, madrepérola Metal: Prata Essências: Frutas suaves, fragrâncias doces com misturas florais (colônias de banho ou de bebê, que contém lavanda e gardênia)",
       "elemento": "Água",
@@ -85,13 +85,13 @@
       "nome": "Leão",
       "slug": "leao",
       "periodo": "22/07 a 22/08",
-      "previsao": "Bem–estar: Se está sonhando com viagens e novidades, é hora de colocar seus planos em prática e agarrar a chance de cair na estrada. A companhia de pessoas próximas também ajuda a levantar o astral e não faltam oportunidades para curtirem juntos. À noite, a Lua em Touro movimenta a vida social. Comunicação: Vênus retrógrado em Libra ajuda a espantar a rotina, mas pede cautela com mal–entendidos. Ouça mais e fale menos agora.",
+      "previsao": "Carreira: Seu lado ambicioso ganha a energia da Lua Cheia e você não vai poupar esforços na hora de defender seus interesses. Aproveite para movimentar contatos profissionais, mergulhar no trabalho e cuidar de tudo o que está sob a sua responsabilidade. Família: Sol e Plutão trocam farpas pela manhã e pedem cautela redobrada em casa. Talvez seja complicado manter a paz com todo mundo, mas ainda vale fazer um esforço.",
       "dezenas": [
-        "58",
-        "82",
-        "53",
-        "91",
-        "85"
+        "08",
+        "77",
+        "74",
+        "54",
+        "52"
       ],
       "cor": "Mais sobre o Signo de Leão Elemento: Fogo Amuleto: Pingente de sol Pedraria: Cristal, cornalina e coral Metal: Ouro Essências: Com notas florais intensas, fragrâncias frutais marcantes (que contém coquetel de frutas vermelhas)",
       "elemento": "Fogo",
@@ -105,13 +105,13 @@
       "nome": "Virgem",
       "slug": "virgem",
       "periodo": "23/08 a 22/09",
-      "previsao": "Dinheiro: A entrada de Vênus retrógrado em Libra pede cautela extra ao lidar com dinheiro. Melhor não gastar à toa nem investir em um negócio arriscado. Bem–estar: O astral fica movimentado e há sinal de reviravoltas pelo caminho neste domingão, mas da melhor maneira possível. É um bom momento para rever algumas coisas e até finalizar um ciclo. À noite, a Lua em Touro favorece viagens e deixa tudo mais descontraído.",
+      "previsao": "Trabalho: Sol e Plutão se estranham pela manhã e pode ser difícil manter o foco no serviço. Evite se distrair com qualquer coisinha. Mas as tarefas que envolvem a participação de outras pessoas vão correr melhor e a Lua Cheia sinaliza um dia movimentado. Bem–estar: Saia da rotina e tente fazer algo diferente. Se tem planos para uma viagem, ou precisa estudar, redobre a atenção e não se distraia.",
       "dezenas": [
-        "47",
-        "63",
-        "32",
-        "51",
-        "72"
+        "10",
+        "46",
+        "71",
+        "52",
+        "91"
       ],
       "cor": "Mais sobre o Signo de Virgem Elemento: Terra Amuleto: Escapulário Pedraria: Ágata, amazonita e jaspe Metal: Alumínio Essências: Frutais levemente cítricos e florais suaves (que contêm lavanda, jasmim e maçã verde)",
       "elemento": "Terra",
@@ -125,13 +125,13 @@
       "nome": "Libra",
       "slug": "libra",
       "periodo": "23/09 a 22/10",
-      "previsao": "Bem–estar: Vênus entra em seu signo, mas como está retrógrado, pode jogar areia nos seus planos. Melhor não agir de maneira impulsiva. À noite, a Lua em Touro favorece mudanças, mas só depois de muita ponderação. Relacionamentos: O seu lado mais sociável dá as cartas ao longo do dia. Aproveite para curtir a companhia das pessoas queridas, dos amigos, e para deixar a solidão bem longe!",
+      "previsao": "Dinheiro: Com Sol e Plutão se desentendendo, há risco de perder dinheiro ou de gastar demais nesta segunda. Pense duas vezes antes de abrir a carteira! Bem–estar: A Lua Cheia avisa que o dia tem tudo para ser movimentado, com direito a reviravoltas pelo caminho. Repense algumas decisões e veja o que pode melhorar.",
       "dezenas": [
-        "16",
-        "68",
-        "03",
-        "01",
-        "74"
+        "52",
+        "50",
+        "96",
+        "69",
+        "68"
       ],
       "cor": "Mais sobre o Signo de Libra Elemento: Ar Amuleto: Pirâmide Pedraria: Turmalina rosa, água-marinha e citrino Metal: Cobre Essências: Colônias suaves e buquê de flores delicadas (que contêm narciso, orquídea e rosas brancas)",
       "elemento": "Ar",
@@ -145,13 +145,13 @@
       "nome": "Escorpião",
       "slug": "escorpiao",
       "periodo": "23/10 a 21/11",
-      "previsao": "Bem–estar e Saúde: Seu lado responsável segue em alta e pode dar conta de algumas atividades de rotina hoje. Tire um tempinho para cuidar da saúde, investigar um sintoma diferente ou adotar um estilo de vida mais saudável agora. Relacionamentos: À noite, a Lua em Touro coloca a convivência com as pessoas queridas em destaque. Por outro lado, Vênus retrógrado em Libra pode aumentar o desejo de se isolar em alguns momentos. Equilibre essas energias.",
+      "previsao": "Bem–estar: Os relacionamentos ficam movimentados com a Lua Cheia e a companhia das pessoas que ama tem tudo para cair bem. Trabalho: Você vai interagir melhor com os outros e pode se surpreender com o rendimento das tarefas. Mas nem tudo sai da maneira que gostaria, por isso, tenha jogo de cintura.",
       "dezenas": [
-        "76",
-        "02",
-        "44",
-        "42",
-        "53"
+        "52",
+        "83",
+        "16",
+        "40",
+        "06"
       ],
       "cor": "Mais sobre o Signo de Escorpião Elemento: Água Amuleto: Pingente de borboleta Pedraria: Ágata de fogo, cristal e turmalina Metal: Bronze Essências: Aromas florais intensos com toque de frutas e fragrâncias marcantes (que contêm patchuli, absinto e sândalo)",
       "elemento": "Água",
@@ -165,13 +165,13 @@
       "nome": "Sagitário",
       "slug": "sagitario",
       "periodo": "22/11 a 21/12",
-      "previsao": "Amizades: Vênus em Libra estimula as amizades, mas como o astro está retrógrado, nem tudo será aquela maravilha. Curta os momentos de lazer com o pessoal, mas sem exageros. Sorte: Você conta com uma dose extra de sorte pela manhã e pode se dar bem ao fazer uma fezinha, inclusive em rifas e sorteios pelas redes sociais. Com a proteção das estrelas, os relacionamentos de qualquer tipo seguem protegidos.",
+      "previsao": "Trabalho: A Lua Cheia destaca seu lado prático e tudo indica que as coisas ficam movimentadas na vida profissional. Ainda bem que todo esse esforço tem boas chances de ser recompensado. Só tenha cautela com mal–entendidos, já que a tensão entre Sol e Plutão estremece as comunicações. Bem–estar: Fofocas e gente intrometida podem testar sua paciência logo cedo. Fique na sua e não fale mais do que deve a qualquer um.",
       "dezenas": [
-        "52",
-        "76",
-        "79",
-        "74",
-        "55"
+        "89",
+        "20",
+        "85",
+        "33",
+        "24"
       ],
       "cor": "Mais sobre o Signo de Sagitário Elemento: Fogo Amuleto: Coruja miniatura Pedraria: Topázio, ametista e sodalita Metal: Estanho Essências: Florais intensos, com toque oriental e especiarias exóticas (que contêm baunilha, anis e cravo)",
       "elemento": "Fogo",
@@ -185,13 +185,13 @@
       "nome": "Capricórnio",
       "slug": "capricornio",
       "periodo": "22/12 a 20/01",
-      "previsao": "Carreira: Apesar do dia de folga, a entrada de Vênus em Libra pode colocar a vida social e profissional em destaque. Pena que o astral segue retrógrado, sinal de que as energias não serão lá tão positivas. Família: O domingão fica mais gostoso se tiver planos para visitar os parentes ou reunir todo mundo em casa. Vale reservar tempo para dar aquela geral em casa e jogar fora tudo o que não tem mais utilidade.",
+      "previsao": "Amizades: O contato com a galera pode ficar movimentado, mas a tensão entre Sol e Plutão pede cautela redobrada com negócios ou dinheiro que envolva os amigos. Trabalho: É hora de canalizar sua energia para serviços que envolvem criatividade, ensino ou contato com outras pessoas. A Lua Cheia ajuda a apresentar ideias criativas e melhorar a comunicação com os clientes.",
       "dezenas": [
-        "76",
+        "20",
+        "45",
         "54",
-        "81",
-        "32",
-        "30"
+        "36",
+        "48"
       ],
       "cor": "Mais sobre o Signo de Capricórnio Elemento: Terra Amuleto: Pomba miniatura Pedraria: Ônix, hematita e quartzo fumê Metal: Chumbo Essências: Com toque suave de frutas, madeira e ervas (que contêm cedro, sândalo e notas verdes)",
       "elemento": "Terra",
@@ -205,13 +205,13 @@
       "nome": "Aquário",
       "slug": "aquario",
       "periodo": "21/01 a 19/02",
-      "previsao": "Bem–estar: Domingou, e você estará a fim de passear e se divertir com os amigos e pessoas próximas. As estrelas avisam que vai dar um show de simpatia e conhecer gente nova. Mas Vênus retrógrado em Libra pede mais cautela se tem planos para viajar ou estudar, ok? Família: À noite, a Lua em Touro destaca seu lado família e curtir seu canto pode ser uma ótima pedida. É hora de relaxar e repor as energias antes de começar a semana.",
+      "previsao": "Família: A Lua Cheia destaca seu lado caseiro e boa parte da sua atenção pode se focar em assuntos domésticos e familiares. A convivência com o pessoal fica movimentada, mas também pode descansar e curtir seu cantinho mais tarde. Trabalho: Quem trabalha com produtos e serviços para o lar ou junto com a família tem mais chances de se destacar. Mas com Sol e Plutão se estranhando, cobranças ou rivalidades podem interferir nos seus planos.",
       "dezenas": [
-        "78",
-        "64",
-        "57",
-        "35",
-        "41"
+        "05",
+        "31",
+        "26",
+        "34",
+        "45"
       ],
       "cor": "Mais sobre o Signo de Aquário Elemento: Ar Amuleto: Gato minatura Pedraria: Turmalina azul, cristal de quartzo e sodalita Metal: Níquel Essências: Fragrâncias florais refrescantes e com misturas curiosas (que contêm jasmim com groselha, chocolate com pimenta, tutti frutti com menta)",
       "elemento": "Ar",
@@ -227,11 +227,11 @@
       "periodo": "20/02 a 20/03",
       "previsao": "Dinheiro: Se depender das estrelas, você pode ter mais facilidade para organizar as contas, planejar os próximos gastos e cuidar do que é seu. Pegar um trabalho extra ajuda a encher o bolso, se estiver precisando. Bem–estar: Vênus retrógrado em Libra sinaliza mudanças e surpresas pela frente, mas talvez precise de paciência e jogo de cintura. À noite, a Lua em Touro deixa o astral mais leve e ainda dá tempo de se divertir.",
       "dezenas": [
-        "85",
-        "06",
-        "66",
-        "27",
-        "99"
+        "56",
+        "35",
+        "68",
+        "08",
+        "44"
       ],
       "cor": "Mais sobre o Signo de Peixes Elemento: Água Amuleto: Crucifixo Pedraria: Ametista, água-marinha e quartzo verde Metal: Platina Essências: Frutais e florais levemente adocicados com toque de frescor (que contêm madressilva, capim-limão e flor de maçã)",
       "elemento": "Água",
