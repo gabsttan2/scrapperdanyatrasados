@@ -1,16 +1,16 @@
 {
-  "atualizado_em": "27/10/2026 09:31",
+  "atualizado_em": "28/10/2026 09:38",
   "signos": {
     "aries": {
       "nome": "Áries",
       "slug": "aries",
       "periodo": "21/03 a 20/04",
-      "previsao": "Dinheiro: Hoje, as finanças estão em destaque, mas pedem alguma cautela também. Mas o dinheiro não vai cair do céu, então vale redobrar a atenção e pensar duas (ou três, ou quatro) vezes antes de abrir a carteira. Trabalho: Se souber jogar as suas cartas, há chance de conquistar um bônus ou até um negócio lucrativo.",
+      "previsao": "Trabalho: Explore seu raciocínio rápido e apresente boas ideias para se destacar. Além de dar conta das tarefas rapidinho logo cedo, você também vai contar com muito pique para lidar com vários assuntos ao mesmo tempo. Serviços que exigem deslocamentos rápidos pela cidade estão protegidos. Bem–estar: Seu jeito mais falante ajuda a conhecer novas pessoas, colocar o papo em dia com os amigos e se divertir nos momentos de folga.",
       "dezenas": [
-        "94",
-        "76",
-        "64",
-        "84",
+        "52",
+        "77",
+        "50",
+        "30",
         "20"
       ],
       "cor": "Mais sobre o Signo de Aries Elemento: Fogo Amuleto: Olho-de-cabra, sol e pingente de pimenta Pedraria: Granada, pirita e rodonita Essências: Fragrâncias cítricas, florais intensas com especiarias (que contêm canela, pimenta, gengibre)",
@@ -25,13 +25,13 @@
       "nome": "Touro",
       "slug": "touro",
       "periodo": "21/04 a 20/05",
-      "previsao": "Bem–estar: Talvez precise de mais jogo de cintura pela manhã se quiser melhorar os relacionamentos ou evitar atritos em casa. Mas o astral melhora e ainda dá tempo de finalizar alguns projetos pessoais. Trabalho: Deixe as diferenças de lado e se aproxime de colegas que podem somar nos seus projetos.",
+      "previsao": "Dinheiro: Você começa com good vibes pra dar um show na hora nas finanças. À tarde, há chance de receber uma grana que não esperava. Trabalho: Seu faro pra dinheiro está em alta e pode encontrar negócios lucrativos, fechar uma ótima parceria e até negociar um aumento. Mas talvez seja uma boa ideia manter segredo sobre o seu sucesso por enquanto, assim vai deixar os invejosos de plantão bem longe.",
       "dezenas": [
-        "68",
+        "04",
+        "13",
+        "44",
         "21",
-        "52",
-        "37",
-        "41"
+        "36"
       ],
       "cor": "Mais sobre o Signo de Touro Elemento: Terra Amuleto: Figa Pedraria: Quartzo rosa, turmalina verde e sodalita Metal: Cobre Essências: Amadeirados, cítricos e frutais suaves com folhas e ervas (que contêm lima, chá verde e erva-doce). clássicos, amadeirados, cítricos e frutais suaves com folhas e ervas (lima, chá verde e erva-doce)",
       "elemento": "Terra",
@@ -45,13 +45,13 @@
       "nome": "Gêmeos",
       "slug": "gemeos",
       "periodo": "21/05 a 20/06",
-      "previsao": "Bem–estar: Sua intuição segue afiada e você pode descobrir algo inesperado. Mas também há sinal de gente fofoqueira pela frente, então mantenha segredo sobre seus interesses. À noite, a Lua em seu signo descontrai o astral e renova seu pique. Trabalho: Procure cuidar das suas tarefas de maneira mais reservada, sem contar seus planos e suas ideias para qualquer um. Falar demais pode te fazer cair em uma armadilha se não tiver cuidado.",
+      "previsao": "Bem–estar: Vai sobrar disposição para correr atrás dos seus interesses pela manhã. Depois, fica mais fácil deixar tudo em ordem e curtir a companhia dos amigos. Aproveite para movimentar as coisas e espantar a rotina! Trabalho: Você pode se surpreender com o que é capaz de conquistar quando coloca seu foco em alguma coisa! A comunicação, marca registrada do seu signo, fica mais evidente e tudo que envolva conversa ou redes sociais corre melhor.",
       "dezenas": [
-        "01",
-        "53",
-        "26",
-        "77",
-        "97"
+        "83",
+        "62",
+        "39",
+        "05",
+        "33"
       ],
       "cor": "Mais sobre o Signo de Gêmeos Elemento: Ar Amuleto: Símbolo yin-yang, miniatura de sapato e sininho Pedraria: Citrino, hematita e ágata Metal: Alumínio Essências: Florais suaves com ingredientes marinhos e refrescantes (que contêm lírio, verbena e algas)",
       "elemento": "Ar",
@@ -65,13 +65,13 @@
       "nome": "Câncer",
       "slug": "cancer",
       "periodo": "21/06 a 21/07",
-      "previsao": "Trabalho: Você terá habilidade para expandir seus interesses, mostrar sua criatividade e pensar fora da caixa. Mas as estrelas sinalizam dificuldades com dinheiro no final da manhã, então pense várias vezes antes de investir em um negócio que parece suspeito ou arriscado. Amizades: Vai ser divertido manter contato com a galera que estava distante. Porém, se alguém pedir dinheiro emprestado, saia de fininho.",
+      "previsao": "Trabalho: Talvez seu pique não esteja a todo vapor hoje, mas vai dar conta das tarefas se puder agir de maneira mais isolada. À tarde, pode negociar benefícios ou dar um up na carreira, mas sem expor seus planos aos colegas. Bem–estar: Ficar no seu canto ajuda a relaxar e repor as energias, então vale reservar um tempinho para se isolar, meditar ou só descansar mesmo. É um bom momento para repensar algumas coisas.",
       "dezenas": [
-        "57",
-        "68",
-        "75",
-        "03",
-        "73"
+        "86",
+        "58",
+        "23",
+        "08",
+        "13"
       ],
       "cor": "Mais sobre o Signo de Câncer Elemento: Água Amuleto: Pingente de lua, peixe e elefante branco Pedraria: Quartzo verde, ametista, madrepérola Metal: Prata Essências: Frutas suaves, fragrâncias doces com misturas florais (colônias de banho ou de bebê, que contém lavanda e gardênia)",
       "elemento": "Água",
@@ -85,13 +85,13 @@
       "nome": "Leão",
       "slug": "leao",
       "periodo": "22/07 a 22/08",
-      "previsao": "Carreira: Os assuntos profissionais seguem em alta e você pode correr atrás do reconhecimento que merece com mais foco. Só não vale exagerar no final da manhã, porque nem sempre dá para conseguir tudo do seu jeito. Trabalho: Seu lado responsável e esforçado ajuda a lidar com qualquer tarefa que pintar pela frente.",
+      "previsao": "Trabalho: Você terá disposição extra para expandir seus horizontes e embarcar em algo novo logo cedo. As estrelas reforçam seu espírito de equipe e as tarefas realizadas em colaboração com os outros devem correr às mil maravilhas à tarde. Bem–estar: As amizades também seguem em alta, inclusive com o pessoal que anda mais distante. Aproveite para matar a saudade e até começar os planos para uma viagem lá na frente.",
       "dezenas": [
-        "88",
-        "84",
-        "81",
-        "40",
-        "30"
+        "08",
+        "76",
+        "22",
+        "27",
+        "18"
       ],
       "cor": "Mais sobre o Signo de Leão Elemento: Fogo Amuleto: Pingente de sol Pedraria: Cristal, cornalina e coral Metal: Ouro Essências: Com notas florais intensas, fragrâncias frutais marcantes (que contém coquetel de frutas vermelhas)",
       "elemento": "Fogo",
@@ -105,13 +105,13 @@
       "nome": "Virgem",
       "slug": "virgem",
       "periodo": "23/08 a 22/09",
-      "previsao": "Trabalho: Você conta com boas energias para expandir seus contatos e trabalhar em equipe. No final da manhã, porém, vale ter cautela no contato com pessoas de longe. A Lua se muda para Gêmeos à noite e envia good vibes para a carreira, mesmo que seja para fazer um planejamento para o futuro. Bem–estar: Planos para uma viagem pedem cautela no final da manhã. A vida social fica mais agitada à noite.",
+      "previsao": "Trabalho: Seu jeito confiante será um grande trunfo para dar conta das tarefas. Sua ambição segue no modo turbo e nada será capaz de desviar sua atenção das suas metas. Carreira: Se anda pensando em tentar algo novo ou buscar uma vaga melhor, a tarde será perfeita para fazer planos a longo prazo para a carreira. Profissionalismo e dedicação são essenciais para se dar bem, então mostre seus pontos fortes.",
       "dezenas": [
-        "60",
-        "59",
-        "31",
-        "53",
-        "93"
+        "78",
+        "43",
+        "24",
+        "68",
+        "56"
       ],
       "cor": "Mais sobre o Signo de Virgem Elemento: Terra Amuleto: Escapulário Pedraria: Ágata, amazonita e jaspe Metal: Alumínio Essências: Frutais levemente cítricos e florais suaves (que contêm lavanda, jasmim e maçã verde)",
       "elemento": "Terra",
@@ -125,13 +125,13 @@
       "nome": "Libra",
       "slug": "libra",
       "periodo": "23/09 a 22/10",
-      "previsao": "Trabalho: As estrelas sinalizam surpresas pela frente. Logo cedo, há chance de topar com um negócio vantajoso, então ouça sua intuição para não deixar uma boa chance escapar entre os dedos. Amizades: Talvez seja difícil manter a paz com todo mundo hoje. No final da manhã, uma amizade pode chegar ao fim se já vinha se desentendendo com alguém.",
+      "previsao": "Trabalho: Seu lado criativo e a sua capacidade de aprender coisas novas podem ser explorados no trabalho, o que ajuda você a se destacar. Os astros também avisam que os serviços em equipe têm tudo pra correr às mil maravilhas à tarde, inclusive uma nova sociedade. Bem–estar: O astral é favorável para começar um curso ou se dedicar mais aos estudos. Viagem ou contato com gente de longe, mesmo nas redes sociais, melhora o humor.",
       "dezenas": [
-        "72",
-        "05",
-        "59",
-        "26",
-        "89"
+        "84",
+        "51",
+        "69",
+        "49",
+        "87"
       ],
       "cor": "Mais sobre o Signo de Libra Elemento: Ar Amuleto: Pirâmide Pedraria: Turmalina rosa, água-marinha e citrino Metal: Cobre Essências: Colônias suaves e buquê de flores delicadas (que contêm narciso, orquídea e rosas brancas)",
       "elemento": "Ar",
@@ -145,13 +145,13 @@
       "nome": "Escorpião",
       "slug": "escorpiao",
       "periodo": "23/10 a 21/11",
-      "previsao": "Relacionamentos: O céu destaca sua habilidade para lidar com as pessoas hoje. Mas talvez falte um pouco de diplomacia no final da manhã, então tente contornar uma saia–justa. Trabalho: A cooperação com os colegas segue em alta e facilita o trabalho em equipe. Porém, lidar com algumas cobranças não será tão fácil.",
+      "previsao": "Trabalho: A manhã pede concentração redobrada, mas o saldo tem tudo para ser melhor do que esperava. Talvez nem tudo corra de acordo com a programação à tarde, mas ouça sua intuição para conquistar boas oportunidades ou corrigir a rota quando for necessário. Saúde: Vale cuidar melhor da saúde e fazer alguns ajustes na rotina. Mas é preciso colocar essas mudanças em prática e não desistir no meio do caminho.",
       "dezenas": [
-        "63",
-        "64",
-        "89",
-        "34",
-        "10"
+        "73",
+        "71",
+        "59",
+        "28",
+        "81"
       ],
       "cor": "Mais sobre o Signo de Escorpião Elemento: Água Amuleto: Pingente de borboleta Pedraria: Ágata de fogo, cristal e turmalina Metal: Bronze Essências: Aromas florais intensos com toque de frutas e fragrâncias marcantes (que contêm patchuli, absinto e sândalo)",
       "elemento": "Água",
@@ -165,13 +165,13 @@
       "nome": "Sagitário",
       "slug": "sagitario",
       "periodo": "22/11 a 21/12",
-      "previsao": "Trabalho: Talvez seja preciso um esforço extra pra dar conta de tudo o que cair no seu colo hoje. Só não vale se distrair com qualquer coisinha no final da manhã, ok? A boa notícia é que dá pra recuperar o tempo perdido à tarde se mergulhar no serviço. Saúde: Se andou exagerando e sobrecarregou o corpo, sua saúde pode reclamar. Não ignore um sintoma diferente e procure um médico se for preciso.",
+      "previsao": "Parcerias: A interação com os colegas e colaboradores tem tudo para melhorar hoje. Uma sociedade pode abrir novas oportunidades na vida profissional. Trabalho: Tudo o que for feito em equipe tem mais chances de dar certo, por isso, será produtivo conversar sobre projetos e tarefas que envolvem outras pessoas.",
       "dezenas": [
-        "89",
-        "05",
-        "59",
-        "15",
-        "40"
+        "57",
+        "17",
+        "18",
+        "21",
+        "25"
       ],
       "cor": "Mais sobre o Signo de Sagitário Elemento: Fogo Amuleto: Coruja miniatura Pedraria: Topázio, ametista e sodalita Metal: Estanho Essências: Florais intensos, com toque oriental e especiarias exóticas (que contêm baunilha, anis e cravo)",
       "elemento": "Fogo",
@@ -185,13 +185,13 @@
       "nome": "Capricórnio",
       "slug": "capricornio",
       "periodo": "22/12 a 20/01",
-      "previsao": "Bem–estar: A Lua segue em seu paraíso astral, aumentando sua criatividade e garantindo momentos divertidos nesta terça. Mas nem tudo é perfeito e há sinal de atrito com filhos ou pessoas mais jovens no final da manhã. Trabalho: Diplomacia e um bom papo ajudam a resolver problemas, fechar um acordo ou trabalhar em equipe. À noite, a Lua em Gêmeos favorece tarefas e serviços, inclusive pra quem pegou um bico.",
+      "previsao": "Trabalho: Logo cedo, o seu foco no trabalho cresce e ajuda a dar um gás e tanto nas suas obrigações. É um bom momento para quem trabalha em casa ou em um negócio familiar. Bem–estar: Receitinhas de família podem aumentar sua disposição, mas se precisar, consulte um médico. Vai sobrar energia para resolver assuntos pendentes em casa, então não enrole pra deixar tudo no lugar.",
       "dezenas": [
-        "65",
-        "25",
-        "37",
-        "10",
-        "31"
+        "69",
+        "60",
+        "71",
+        "97",
+        "85"
       ],
       "cor": "Mais sobre o Signo de Capricórnio Elemento: Terra Amuleto: Pomba miniatura Pedraria: Ônix, hematita e quartzo fumê Metal: Chumbo Essências: Com toque suave de frutas, madeira e ervas (que contêm cedro, sândalo e notas verdes)",
       "elemento": "Terra",
@@ -205,13 +205,13 @@
       "nome": "Aquário",
       "slug": "aquario",
       "periodo": "21/01 a 19/02",
-      "previsao": "Família: Os assuntos familiares pedem mais paciência para serem resolvidos numa boa. Curtir seu canto e a presença do pessoal de casa será uma boa, mas não deixe ninguém palpitar na sua vida amorosa. Trabalho: Hoje, as estrelas favorecem serviços ligados a produtos para a casa ou tarefas feitas em home office. No final da manhã, talvez seja necessário ceder em algumas coisas para manter a harmonia com os colegas.",
+      "previsao": "Trabalho: Seu lado criativo tem tudo para crescer e fazer a diferença no serviço. Além de ter ótimas ideias, você também vai contar com um ótimo papo para fazer novos contatos profissionais, conquistar clientes ou melhorar suas vendas à tarde. Bem–estar: Aposte no seu carisma e num bom papo para espantar a rotina e curtir os momentos de lazer. A sorte sorri para o seu lado e vale até fazer uma fezinha!",
       "dezenas": [
-        "68",
-        "96",
-        "73",
-        "38",
-        "07"
+        "57",
+        "60",
+        "61",
+        "12",
+        "77"
       ],
       "cor": "Mais sobre o Signo de Aquário Elemento: Ar Amuleto: Gato minatura Pedraria: Turmalina azul, cristal de quartzo e sodalita Metal: Níquel Essências: Fragrâncias florais refrescantes e com misturas curiosas (que contêm jasmim com groselha, chocolate com pimenta, tutti frutti com menta)",
       "elemento": "Ar",
@@ -225,13 +225,13 @@
       "nome": "Peixes",
       "slug": "peixes",
       "periodo": "20/02 a 20/03",
-      "previsao": "Trabalho: Esta terça começa com uma vibe pra lá de favorável para fazer contatos profissionais, apresentar novas ideias ou dar conta de várias coisas ao mesmo tempo. Mas talvez seja preciso mais atenção no final da manhã para não perder informação importante. Bem–estar: O astral segue mais leve e um bom papo ajuda a conhecer gente nova. À noite, a Lua em Gêmeos destaca seu lado caseiro e vai se sentir melhor no seu cantinho.",
+      "previsao": "Trabalho: Você conta com bom–senso e muita responsabilidade para lidar com as tarefas do dia a dia. À tarde, as finanças estão protegidas, mas mantenha os pés no chão e dê um passo de cada vez. Família: Como você vai se ligar em assuntos da casa ou da família, o astral será perfeito para resolver tarefas pendentes e chegar a um acordo com os parentes. Pode comprar algo para a casa ou receber apoio financeiro de um parente.",
       "dezenas": [
-        "56",
         "19",
+        "29",
         "45",
-        "96",
-        "31"
+        "42",
+        "81"
       ],
       "cor": "Mais sobre o Signo de Peixes Elemento: Água Amuleto: Crucifixo Pedraria: Ametista, água-marinha e quartzo verde Metal: Platina Essências: Frutais e florais levemente adocicados com toque de frescor (que contêm madressilva, capim-limão e flor de maçã)",
       "elemento": "Água",
